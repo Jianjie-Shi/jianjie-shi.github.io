@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD student in the [Department of Econometrics and Business Statistics](https://www.monash.edu/business/ebs) at [Monash University](https://www.monash.edu). My PhD thesis is _Bayesian Time Series Modelling of Mortality Data_ under the supervision of [Prof. Catherine Forbes](https://research.monash.edu/en/persons/catherine-forbes) and [A/P Dan Zhu](https://research.monash.edu/en/persons/dan-zhu).
+I am currently a final-year PhD student in the [Department of Econometrics and Business Statistics](https://www.monash.edu/business/ebs) at [Monash University](https://www.monash.edu). And I'm expected to obatain my PhD degree in December 2024. My PhD thesis is _Bayesian Time Series Modelling of Mortality Data_ under the supervision of [Prof. Catherine Forbes](https://research.monash.edu/en/persons/catherine-forbes) and [A/P Dan Zhu](https://research.monash.edu/en/persons/dan-zhu).
 
 I graduated with [Master of Statistics](https://programsandcourses.anu.edu.au/2017/program/mstat) (with Commendation) in the [Research School of Finance, Actuarial Studies & Statistics](https://rsfas.anu.edu.au) at [The Australian National University](https://www.anu.edu.au) in December 2018. I have been awarded a [University Medal](https://www.anu.edu.au/students/program-administration/prizes/university-medal-and-postgraduate-medal-for-academic-excellence) in 2018. My Master thesis is _Time-varying factor model_ supervised by [A/P Yanrong Yang](https://cbe.anu.edu.au/about/staff-directory/associate-professor-yanrong-yang) and [Dr Fei Huang](https://www.unsw.edu.au/staff/fei-huang).
 
