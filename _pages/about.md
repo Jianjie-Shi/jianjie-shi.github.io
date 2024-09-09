@@ -17,6 +17,7 @@ I have received dual degrees from [Sun Yat-sen University](https://www.sysu.edu.
 My research interests lie primarily in two areas: 
 1. **Actuarial Science**, with a focus on mortality modeling and longevity risk management;
 2. **Bayesian Econometrics**, particularly Bayesian time series analysis and Bayesian nonparametric methods.
+   
 Please feel free to contact me via email: [jianjie.shi@monash.edu](mailto:jianjie.shi@monash.edu).
 
 _All models are wrong, but some are useful._
