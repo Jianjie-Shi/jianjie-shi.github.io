@@ -20,4 +20,4 @@ My research interests lie primarily in two areas:
    
 Please feel free to contact me via email: [jianjie.shi@monash.edu](mailto:jianjie.shi@monash.edu).
 
-_All models are wrong, but some are useful._ - George E. P. Box
+"_All models are wrong, but some are useful_." - George E. P. Box
