@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jianjie Shi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate <br> Department of Econometrics and Business Statistics, Monash Business School, Monash University"
+  bio              : "PhD Candidate <br>“ “Department of Econometrics and Business Statistics, Monash Business School, Monash University"
   location         : "Melbourne, Australia"
   employer         : # "Monash University"
   uri              : # URL
