@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jianjie Shi/Personal Homepage"
+title                    : "Jianjie Shi's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jianjie Shi"
   pronouns         : "PhD Candidate"  
-  bio              : “Department of Econometrics and Business Statistics, Monash Business School, Monash University"
+  bio              : "Department of Econometrics and Business Statistics, Monash Business School, Monash University"
   location         : "Melbourne, Australia"
   employer         : # "Monash University"
   uri              : # URL
